@@ -22,6 +22,11 @@ npx hardhat
 npm install @nomiclabs/hardhat-ethers ethers
 ```
 
+5. Install Hardhat Verify
+```terminal
+npm install @nomicfoundation/hardhat-verify
+```
+
 4. Compile your contract
 ```terminal
 npx hardhat compile
